@@ -1,0 +1,11 @@
+{
+    "Id" : "ShuttleDrillUpgradeImproved",
+    "DefId" : "Obj/Upgrades/ShuttleDrillUpgradeImproved",
+    "IsComposite" : true,
+    "NameKey" : "obj.upgrades.shuttledrillupgradeimproved",
+    "IconId" : "Obj/Upgrades/ShuttleDrillUpgradeImproved",
+    "Property" : "Electronic",
+    "Group" : "Upgrade",
+    "EnergyOutput" : 500.0,
+    "Rarity" : 1
+}

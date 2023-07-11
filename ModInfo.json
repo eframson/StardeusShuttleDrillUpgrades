@@ -1,0 +1,9 @@
+{
+    "Id" : "ShuttleDrillUpgrades",
+    "SteamWorkshop" : true,
+    "Name" : "More Shuttle Drill Upgrades",
+    "Description" : "Adds two more shuttle drill upgrades: the Improved Shuttle Drill Upgrade, and the Superior Shuttle Drill Upgrade. The Improved upgrade is extremely powerful, while the Superior upgrade is game-breakingly powerful. Try not to drill through the fabric of reality.",
+    "ModVersion" : "1.0.0",
+    "GameVersion" : "0.9.24",
+    "Dependencies" : [ "Core" ]
+}

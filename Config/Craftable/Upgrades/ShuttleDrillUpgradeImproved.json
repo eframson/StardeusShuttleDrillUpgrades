@@ -1,0 +1,12 @@
+{
+    "Level": 1,
+    "Type": "Upgrades",
+    "Ingredients": [
+        { "TypeId" : "TitaniumPlate", "StackSize" : 50 },
+        { "TypeId" : "Steel", "StackSize" : 40 },
+        { "TypeId" : "Gears", "StackSize" : 6 }
+    ],
+    "ProductDefId": "Obj/Upgrades/ShuttleDrillUpgradeImproved",
+    "ProductionTimeHours": 240.0,
+    "EnergyCost": 300.0
+}

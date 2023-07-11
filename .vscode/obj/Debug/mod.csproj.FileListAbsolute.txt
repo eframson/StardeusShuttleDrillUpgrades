@@ -1,0 +1,10 @@
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\StardeusMod\.vscode\obj\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\StardeusMod\.vscode\obj\Debug\mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\StardeusMod\.vscode\obj\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\StardeusMod\Libraries\Stardeus_Mod_Template.dll
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\StardeusMod\.vscode\obj\Debug\Stardeus_Mod_Template.dll
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\ShuttleDrillUpgrades\.vscode\obj\Debug\mod.csproj.AssemblyReference.cache
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\ShuttleDrillUpgrades\.vscode\obj\Debug\mod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\ShuttleDrillUpgrades\.vscode\obj\Debug\mod.csproj.CoreCompileInputs.cache
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\ShuttleDrillUpgrades\Libraries\ShuttleDrillUpgrades.dll
+C:\Users\frams\AppData\LocalLow\Kodo Linija\Stardeus\Mods\ShuttleDrillUpgrades\.vscode\obj\Debug\ShuttleDrillUpgrades.dll

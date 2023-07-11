@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+WRrbd9s9lIERa2+i/RfQlHWao3+ZaKT8vNc9iP0f++RFAusPWoe9Y0Zo+8DQY/kJPHDd/r+aDVANVN2U53R2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\frams\\AppData\\LocalLow\\Kodo Linija\\Stardeus\\Mods\\ShuttleDrillUpgrades\\.vscode\\mod.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\frams\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.3\\microsoft.netframework.referenceassemblies.1.0.3.nupkg.sha512",
+    "C:\\Users\\frams\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net47\\1.0.3\\microsoft.netframework.referenceassemblies.net47.1.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
